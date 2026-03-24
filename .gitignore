@@ -1,9 +1,9 @@
 .venv
 .venv_wsl
-paper\acl_latex_example.tex
-paper\acl_natbib.bst
-paper\acl.sty
-paper\custom.bib
-paper\mid_report.tex
+paper/acl_latex_example.tex
+paper/acl_natbib.bst
+paper/acl.sty
+paper/custom.bib
+paper/mid_report.tex
 artifacts
 implementation.md
